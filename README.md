@@ -1,8 +1,7 @@
 
-<h1 align="left">Hi 👋, I'm Beyza</h1>
 
-
-<p align="right"><img src="https://i.pinimg.com/originals/51/35/6c/51356c29049d292651cb558c6f176430.gif" alt="gif" height = "50px" width = "50px"></p>
+<h1 align="center">Hi 👋, I'm Beyza</h1>
+<p align="center"><img src="https://i.pinimg.com/originals/51/35/6c/51356c29049d292651cb558c6f176430.gif" alt="gif" height = "150px" width = "180px"></p>
 
 ## 📌 GitHub Stats And Top Languages
 
