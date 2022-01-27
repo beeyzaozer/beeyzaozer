@@ -1,4 +1,9 @@
 
+<h1 align="left">Hi 👋, I'm Beyza</h1>
+
+
+<p align="right"><img src="https://i.pinimg.com/originals/51/35/6c/51356c29049d292651cb558c6f176430.gif" alt="gif"/></p>
+
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
