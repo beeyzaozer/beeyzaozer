@@ -1,7 +1,5 @@
-### Hi there 👋
-# I am Beyza Özer.
 
-I am a student and I am a Intern Software Developer.
+![Alt Text](https://i.pinimg.com/originals/51/35/6c/51356c29049d292651cb558c6f176430.gif)
 
 ## Languages I use
 ![html5](https://camo.githubusercontent.com/60155f4543422e46101b7edb0fc701c872d9190b23dc33cb47bd1ac15d80dec1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
@@ -16,5 +14,5 @@ I am a student and I am a Intern Software Developer.
 <a href="mailto:beeyzaozer@gmail.com?subject=GitHub%20Prospect%20"><img src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a> <br>
 <a href="https://www.linkedin.com/in/beyza-%C3%B6zer-b88839219/" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> <br>
 
-## Please don't eat my contributionnnnnn ;(
+## Please don't eat my contributionnsss ;(
 ![snake gif](https://github.com/beeyzaozer/beeyzaozer/blob/output/github-contribution-grid-snake.gif)
